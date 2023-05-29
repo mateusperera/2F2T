@@ -1,2 +1,3 @@
-# 2F2T
-TEMA: Drogas
+# Segundo trimestre - mobile-first
+
+Amanda Y. Satow - 02

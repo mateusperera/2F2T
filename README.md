@@ -1,3 +1,3 @@
-# Segundo trimestre - mobile-first
+# Segundo Trimestre-mobile-first
 
-Amanda Y. Satow - 02
+joao mateus-20

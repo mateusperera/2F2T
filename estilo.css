@@ -5,7 +5,7 @@
 .caixa{
     width: 100%;
     height: 500px;
-    background-color:rgb(43, 76, 226);
+    background-color:rgb(93, 123, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,5 +14,5 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: rgb(125, 21, 156);
+    background-color: rgb(170, 12, 86);
 }

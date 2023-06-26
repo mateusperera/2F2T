@@ -34,10 +34,9 @@ body {
 .meu-site {
     display: grid;
     grid-template-columns: 20% 80% ;
-    grid-template-areas: 
-                "barra barra"
-                "lado principal"
-                "rodape rodape";
-
+    grid-template-areas:
+                  "barra barra"
+                  "lado principal"
+                  "rodape rodape";
 
 }
